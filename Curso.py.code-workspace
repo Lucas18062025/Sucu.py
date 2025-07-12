@@ -1,8 +1,10 @@
 {
 	"folders": [
 		{
-			"path": "../Curso.py"
+			"path": "../.."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"notebook.insertFinalNewline": true
+	}
 }
