@@ -1,2 +1,1 @@
-# Sucu.py
-fiesta_crujiente.py
+# Curso.py
